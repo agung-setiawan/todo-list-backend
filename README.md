@@ -46,12 +46,12 @@ DB_PASSWORD=your_password
 
 5. **Generate key, open Terminal go to root folder**
 ```
-php artisan key:generate.
+php artisan key:generate
 ```
 
 6. **Run migration, open Terminal go to root folder**
 ```
-php artisan migrate.
+php artisan migrate
 ```
 
 7. **Run server, open Terminal go to root folder**
