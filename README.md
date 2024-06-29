@@ -24,7 +24,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 ## How to install
 1. **Clone the repository**
 ```
-https://github.com/agung-setiawan/todo-list-backend.git
+git clone https://github.com/agung-setiawan/todo-list-backend.git .
 ```
 
 2. **Composer Install : Open Terminal go to root folder and run**
